@@ -104,3 +104,59 @@ nav .img-container{
     gap: 20px;
     margin-top: 30px;
 }
+
+.info-parent .info-container{
+    
+}
+
+.info-parent .info-container h1{
+    width: ;
+    height: 80px;
+    font-style: bold;
+    font-size: 48px;
+    text-align: center;
+    line-height: 58px;
+
+}
+.info-parent .info-container p{
+    color: #627382;
+    font-weight: 400px;
+    line-height: 20px;
+    text-align: center;
+    margin: 0 auto 50px;
+}
+.info-card{
+    background-color: white;
+    border-radius: 10px;
+    padding: 12px;
+    border: 1px solid black ;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.info-card-parent{
+    display: flex;
+    gap: 15px;
+    text-align: center;
+}
+.info-card p{
+    color: #627382;
+}
+
+
+.info-parent .icon {
+    background-color: #ff5733;
+    width:60px;
+    height:60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    margin: auto;
+}
+.info-card .icon img{
+    width: 24px;
+    height: auto;
+}
+
+
